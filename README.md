@@ -22,52 +22,35 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+<h1 align = "center">
+    Ignite Lab 04 - Notificador
+</h1>
+<p align="center"> Um microsserviço construindo usando Nest.js e Prisma</p>
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+ <p align="center">
+   <a href="#sobre-o-projeto">Sobre o Projeto</a> •
+   <a href="#tecnologias">Tecnologias</a> •
+   <a href="#configurações-necessárias">Configurações necessárias</a> •
+   <a href="#licença">Licença</a> •
+   <a href="#autor">Autor</a>
+  </p>
 
-## Installation
+## Sobre o projeto
+Projeto desenvolvido
 
-```bash
-$ npm install
-```
+## Tecnologias
 
-## Running the app
+## Configurações necessárias
 
-```bash
-# development
-$ npm run start
+ ## Licença
 
-# watch mode
-$ npm run start:dev
+  Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
 
-# production mode
-$ npm run start:prod
-```
+  ---
 
-## Test
+  ## Autor
 
-```bash
-# unit tests
-$ npm run test
+  Feito por Rafael Ribeiro durante o Ignite lab 04 👋🏽 Entre em contato!
 
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+  [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/rafael-mgr/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&link=mailto:nelsonsantosaraujo@hotmail.com)](mailto:ribeirorafaelmatehus@gmail.com)
